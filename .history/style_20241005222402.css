@@ -335,18 +335,4 @@ main .insights .expenses svg circle{
     stroke-dasharray: 80;
     stroke-dashoffset: 20;
 }
-main .insights .income svg circle{
-    stroke-dasharray: 110;
-    stroke-dashoffset: 35;
-}
 
-main .insights .progress .number{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
