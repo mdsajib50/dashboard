@@ -389,7 +389,5 @@ main table tbody tr:last-child td{
 
 main .recent-order a{
     text-align: center;
-    display: block;
-    margin: 1rem auto;
-    color: var(--color-primary);
+    display: ;
 }

@@ -391,5 +391,5 @@ main .recent-order a{
     text-align: center;
     display: block;
     margin: 1rem auto;
-    color: var(--color-primary);
+    color: var();
 }
