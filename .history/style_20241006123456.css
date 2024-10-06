@@ -89,7 +89,6 @@ a{
 img{
     display: block;
     width: 100%;
-    border-radius: 50%;
 }
 h1{
     font-size: 1.8rem;
@@ -441,7 +440,6 @@ main .recent-order a{
     gap: 2rem;
     text-align: right;
 }
-
 /* ************RECENT UPDATE************** */
 
 .right-section .recent-updates{
@@ -464,8 +462,5 @@ main .recent-order a{
 }
 
 .right-section .recent-updates .updates .update{
-    display: grid;
-    grid-template-columns: 2.6rem auto;
-    gap: 1rem;
-    margin-bottom: 1rem;
+    
 }
